@@ -3,3 +3,6 @@ input
 
 # jupyter directory
 .ipynb*
+
+# python env
+.python-version
