@@ -48,7 +48,7 @@ PyYAML==3.13
 pyzmq==17.1.2
 qtconsole==4.3.1
 requests==2.19.1
-scikit-learn==0.19.2
+scikit-learn==1.5.0
 scipy==1.1.0
 seaborn==0.9.0
 Send2Trash==1.5.0
@@ -57,7 +57,7 @@ six==1.11.0
 statsmodels==0.9.0
 terminado==0.8.1
 testpath==0.3.1
-tornado==5.1
+tornado==6.4.1
 traitlets==4.3.2
 urllib3==1.23
 wcwidth==0.1.7
